@@ -30,7 +30,7 @@ This brief tutorial demonstrates the prerequisites and installation of the open-
 </p>
 <br />
 <p>
-Next connect to your RDP I am using mac so i download Microsoft Remote Desktop app from the Apple Play and connect the osTicket VM we created ealier using the the public IPv4 address).
+Next, connect to your RDP I am using a Mac so I downloaded the Microsoft Remote Desktop app from the Apple Play and connected the osTicket VM we created earlier using the public IPv4 address).
 </p>
 <p>
   <img width="869" alt="image" src="https://github.com/abdijalilimam/osticket-prereqs/assets/137457871/898321ad-bf4f-41ee-a063-6f2f568ff8ab">
@@ -38,7 +38,7 @@ Next connect to your RDP I am using mac so i download Microsoft Remote Desktop a
 
 <br />
 <p>
-  Next, look up control panel in the start menu and click on "programs" and under programs click on "Turn Window Features on or off" and then you will be able to unable internet information services as you see above.
+  Next, look up the control panel in the start menu and click on "programs" and under programs click on "Turn Window Features on or off" Then you will be able to enable internet information services as you see above.
 </p>
 <p>
 <img width="1158" alt="image" src="https://github.com/abdijalilimam/osticket-prereqs/assets/137457871/f03a70ae-6243-49e9-9803-cef8ee6c4fb7">
@@ -46,7 +46,7 @@ Next connect to your RDP I am using mac so i download Microsoft Remote Desktop a
 <p>
   
 
-   <p> Download and install MySQL and   Use this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 to install all the files required for the instilation. 
+   <p> Download and install MySQL and   Use this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6 to install all the files required for the installation. 
 </p>
 <p>
   <img width="1137" alt="image" src="https://github.com/abdijalilimam/osticket-prereqs/assets/137457871/58ff3e3a-f1b8-4e92-bf72-c2d070ca2ede"> </p>
@@ -56,7 +56,7 @@ Next connect to your RDP I am using mac so i download Microsoft Remote Desktop a
 </p>
 
 <p>
-  Register new php
+  Register new PHP
 </p>
 
 <p>
